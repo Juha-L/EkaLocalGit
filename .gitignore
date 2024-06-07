@@ -1,3 +1,5 @@
 TestScript.sh
 
 .gitignore
+*..gitignore
+
